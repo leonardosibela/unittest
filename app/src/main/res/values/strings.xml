@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="temperature_input_hint">Type temperature</string>
+    <string name="convert_button_text">Convert</string>
+    <string name="to_celsius_text">To celsius</string>
+    <string name="to_fahrenheit_text">To fahrenheit</string>
+</resources>
